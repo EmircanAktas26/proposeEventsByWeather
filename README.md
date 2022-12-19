@@ -1,0 +1,2 @@
+# proposeEventsByWeather
+BasicProposeEventsByWeather(patikaDev)
